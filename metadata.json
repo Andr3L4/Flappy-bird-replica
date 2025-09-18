@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Demon",
+  "description": "A hell-themed flappy bird game. Press the space bar to make the demon flap its wings and navigate through the pillars of despair. How long can you survive?",
+  "requestFramePermissions": []
+}
